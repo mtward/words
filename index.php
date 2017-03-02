@@ -14,6 +14,6 @@ echo $line;
   ?>
  </font>
   <br><br>
-  <input type="image" src="zebra.jpg" onClick="history.go(0)">
+  <input type="image" src="https://unsplash.it/500?random" onClick="history.go(0)">
  </body>
 </html>
