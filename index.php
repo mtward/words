@@ -1,6 +1,6 @@
 <html>
  <head>
-   <title>Ward Word Generator</title>
+   <title>Wonderous Ward Word Generator</title>
  </head>
  <body>
    <?php 
