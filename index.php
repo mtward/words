@@ -3,7 +3,7 @@
    <title>Wonderous Ward Word Generator</title>
  </head>
  <body>
-<fone size="30">
+<font size="30">
    <?php 
 
   
