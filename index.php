@@ -3,7 +3,7 @@
    <title>Wonderous Ward Word Generator</title>
  </head>
  <body>
-  <H1>
+  <H1 "width=100%">
    <?php 
 
   
