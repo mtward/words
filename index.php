@@ -13,6 +13,6 @@ echo $data;
   
   ?>
   <br><br>
-  <input type="image" src="zebra.jpg" onClick="history.go(0)" width="200" height="200">
+  <input type="image" src="zebra.jpg" onClick="history.go(0)">
  </body>
 </html>
