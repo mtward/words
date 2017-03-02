@@ -3,7 +3,7 @@
    <title>Wonderous Ward Word Generator</title>
  </head>
  <body>
-  <H1 "width=100%">
+<fone size="30">
    <?php 
 
   
@@ -13,7 +13,7 @@ $data = $line;
 echo $data;
   
   ?>
-  </H1>
+ </font>
   <br><br>
   <input type="image" src="zebra.jpg" onClick="history.go(0)">
  </body>
