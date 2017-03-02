@@ -6,7 +6,7 @@
    <?php 
 
   
-$f_contents = file("wordless.txt");
+$f_contents = file("wordlist.txt");
 $line = $f_contents[array_rand($f_contents)];
 $data = $line;
 echo $data;
