@@ -1,6 +1,6 @@
 <html>
  <head>
-   <title>PHP Test</title>
+   <title>Ward Word Generator</title>
  </head>
  <body>
    <?php 
@@ -13,6 +13,6 @@ echo $data;
   
   ?>
   <br><br>
-  <input type="image" src="zebra.jpg" onClick="history.go(0)" width="48" height="48">
+  <input type="image" src="zebra.jpg" onClick="history.go(0)" width="200" height="200">
  </body>
 </html>
