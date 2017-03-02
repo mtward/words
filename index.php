@@ -12,5 +12,7 @@ $data = $line;
 echo $data;
   
   ?>
+  <br>
+  <input type="button" value="Refresh Page" onClick="history.go(0)">
  </body>
 </html>
