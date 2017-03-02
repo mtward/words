@@ -12,7 +12,7 @@ $data = $line;
 echo $data;
   
   ?>
-  <br>
-  <input type="button" value="Refresh Page" onClick="history.go(0)">
+  <br><br>
+  <input type="image" src="zebra.jpg" onClick="history.go(0)" width="48" height="48">
  </body>
 </html>
